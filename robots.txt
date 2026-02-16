@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kremilrp-png.github.io/kremilrp.endedition.github.io/sitemap.xml
